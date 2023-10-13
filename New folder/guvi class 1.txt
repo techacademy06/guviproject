@@ -1,0 +1,38 @@
+
+let x=Number("10")
+
+boolean:
+let abc;
+console.log(abc,typeof abc);
+output=undefined
+
+
+parseInt:
+
+console.log("100",parseInt("100"),typeof parseInt("100"));
+console.log("100.256",parseInt("100.256"),typeof parseInt("100.256"));
+
+
+let num1=+userinput[0]
+let num2=+userinput[1]
+console.log(num1*num2)
+
+input 14,12
+0/p 168
+let num=+userInput[0]
+let num1=+userInput[1]
+console.log(num*num1)
+
+
+voting task  input 26
+console.log(userInput);
+  let num=+userInput[0]
+  console.log(num)
+  if(num >18)
+  {
+      console.log("im eligible for voting")
+  }else
+  {
+      console.log("im not eligible for voting")
+  }
+output im eligible for voting
